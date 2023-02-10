@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BestPrice</string>
+    <string name="start_price">Price</string>
+    <string name="weight">Weight</string>
+    <string name="сalcPrice">Price per Kg/L</string>
+    <string name="description_addLineButton">Add Line</string>
+    <string name="logo_app_name">BestPrice</string>
+</resources>

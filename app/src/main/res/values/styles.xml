@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <style name="Widget.AppTheme.LikeCheckBox" parent="Widget.MaterialComponents.Button.TextButton.Icon">-->
+<!--        <item name="icon">@drawable/baseline_add_24</item>-->
+<!--        <item name="android:textColor">@color/green</item>-->
+<!--        <item name="android:minWidth">@dimen/icon_button_size</item>-->
+<!--        <item name="android:minHeight">@dimen/icon_button_size</item>-->
+<!--    </style>-->
+
+<!--    <style name="Widget.AppTheme.ShareButton" parent="Widget.MaterialComponents.Button.TextButton.Icon">-->
+<!--        <item name="icon">@drawable/ic_baseline_share_24dp</item>-->
+<!--        <item name="iconTint">@color/counterTextColor</item>-->
+<!--        <item name="android:textColor">@color/counterTextColor</item>-->
+<!--        <item name="android:minWidth">@dimen/icon_button_size</item>-->
+<!--        <item name="android:minHeight">@dimen/icon_button_size</item>-->
+<!--    </style>-->
+
+<!--    <style name="Widget.AppTheme.ViewButton" parent="Widget.MaterialComponents.Button.TextButton.Icon">-->
+<!--        <item name="icon">@drawable/ic_baseline_remove_red_eye_24dp</item>-->
+<!--        <item name="iconTint">@color/counterTextColor</item>-->
+<!--        <item name="android:textColor">@color/counterTextColor</item>-->
+<!--        <item name="android:minWidth">@dimen/icon_button_size</item>-->
+<!--        <item name="android:minHeight">@dimen/icon_button_size</item>-->
+<!--    </style>-->
+
+<!--    <style name="Widget.AppTheme.MenuButton" parent="Widget.MaterialComponents.Button.TextButton.Icon">-->
+<!--        <item name="icon">@drawable/ic_baseline_more_vert_24dp</item>-->
+<!--        <item name="iconTint">@color/counterTextColor</item>-->
+<!--        <item name="android:textColor">@color/counterTextColor</item>-->
+<!--        <item name="android:minWidth">@dimen/icon_button_size</item>-->
+<!--        <item name="android:minHeight">@dimen/icon_button_size</item>-->
+<!--    </style>-->
+
+</resources>
